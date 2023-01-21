@@ -2,7 +2,7 @@
   "name": "react-topics",
   "private": true,
   "version": "1.0.0",
-  "author": "Dr. T",
+  "author": "Danny Villalobos",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
